@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🥀 Hey! I'm Jaafer
+# Hey! I'm Jaafer
 
 [blog](https://biackr0se.github.io/blog/) • [linkedin](https://www.linkedin.com/in/jaafer-rahmani/) • [email](mailto:jaafer.rahmani@owasp.org)
 
