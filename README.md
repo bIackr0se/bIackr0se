@@ -1,55 +1,47 @@
 <div align="center">
 
-# bIackr0se
+# 🥀 Hey! I'm Jaafer
 
-**AI red teaming `//` AI blue teaming `//` security engineering**
+[blog](https://biackr0se.github.io/blog/) • [linkedin](https://www.linkedin.com/in/jaafer-rahmani/) • [email](mailto:jaafer.rahmani@owasp.org)
 
-[![blog](https://img.shields.io/badge/blog-biackr0se.github.io-ff2a4d?style=flat-square&labelColor=060407)](https://biackr0se.github.io/blog/)
-[![linkedin](https://img.shields.io/badge/linkedin-jaafer--rahmani-ff2a4d?style=flat-square&labelColor=060407)](https://www.linkedin.com/in/jaafer-rahmani/)
-[![email](https://img.shields.io/badge/email-jaafer.rahmani%40owasp.org-ff2a4d?style=flat-square&labelColor=060407)](mailto:jaafer.rahmani@owasp.org)
+**AI red teaming • AI blue teaming • security engineering**
+
+[![papers](https://img.shields.io/badge/peer--reviewed_papers-10-ff2a4d?style=flat-square&labelColor=060407)](https://biackr0se.github.io/blog/#research)
+[![cve](https://img.shields.io/badge/CVE--2026--58196-ToolHive_SSRF-ff2a4d?style=flat-square&labelColor=060407)](https://biackr0se.github.io/blog/posts/ssrf-out-of-the-sandbox/)
+[![owasp](https://img.shields.io/badge/OWASP-member-ff2a4d?style=flat-square&labelColor=060407)](https://owasp.org)
 
 </div>
 
-```console
-┌──[ bIackr0se@github ]─[ ~ ]
-└─$ whoami
+## About
 
-Security engineer and PhD researcher in adversarial machine learning.
-I break models to make them harder to break: red-teaming ML models, LLM
-agents, and RAG pipelines, and engineering the ML-driven detection that
-defends critical infrastructure against attackers who adapt.
-```
+Security engineer and PhD researcher in adversarial machine learning. I break models to make them harder to break: red-teaming ML models, LLM agents, and RAG pipelines, and engineering the ML-driven detection that defends critical infrastructure against attackers who adapt.
 
-```console
-┌──[ bIackr0se@github ]─[ ~ ]
-└─$ cat record.log
+## Current work
 
-[+] 10 peer-reviewed papers .... IEEE / Springer / MDPI, 2025-2026
-[+] CVE-2026-58196 ............. host-side SSRF in ToolHive (MCP runtime),
-                                 reached cloud instance metadata from outside
-                                 the container sandbox; fixed in v0.31.0
-[+] eJPTv2 ..................... INE Security
-[+] CC ......................... ISC2, plus CC exam development volunteer
-[+] Adversarial ML ............. NVIDIA, Exploring Adversarial Machine Learning
-[+] OWASP ...................... member
-```
+- [**AutoMCP**](https://github.com/bIackr0se/AutoMCP) - elastic purple-team MCP server: extracts security alerts, analyzes, responds, runs counter-reconnaissance
+- [**Watching an SSRF walk out of the sandbox**](https://biackr0se.github.io/blog/posts/ssrf-out-of-the-sandbox/) - full writeup of CVE-2026-58196, host-side SSRF in an MCP runtime
+- **Doctoral research** - evaluating and hardening ML-based intrusion detection against adaptive evasion; security of agentic LLM SOC analysts in OT networks
+- **Vulnerability research** on AI-agent infrastructure: MCP servers, agent runtimes, coding assistants, disclosed responsibly
+- [**Field notes**](https://biackr0se.github.io/blog/posts/) - writeups land here as disclosures go public
 
-```console
-┌──[ bIackr0se@github ]─[ ~ ]
-└─$ ls -la work/
-```
+## Arsenal
 
-|       |                                                                                                              |
-| ----- | ------------------------------------------------------------------------------------------------------------ |
-| `drwx` | [**AutoMCP**](https://github.com/bIackr0se/AutoMCP), elastic purple-team MCP server: extracts security alerts, analyzes, responds, runs counter-reconnaissance |
-| `-rw-` | [**Watching an SSRF walk out of the sandbox**](https://biackr0se.github.io/blog/posts/ssrf-out-of-the-sandbox/), the CVE-2026-58196 writeup |
-| `-rw-` | [**Peer-reviewed research**](https://biackr0se.github.io/blog/#research), adversarial ML, LLM-agent security, OT intrusion detection |
-| `-rw-` | [**Field notes**](https://biackr0se.github.io/blog/posts/), disclosures and research writing |
+<div align="center">
 
-```console
-┌──[ bIackr0se@github ]─[ ~ ]
-└─$ echo $CONTACT
+[![skills](https://skillicons.dev/icons?i=py,pytorch,sklearn,docker,linux,bash,git,latex&theme=dark)](https://biackr0se.github.io/blog/about/)
 
-Research collaboration, responsible disclosure, or an interesting target
-model: jaafer.rahmani@owasp.org
-```
+</div>
+
+**AI red teaming** : evasion, model extraction, data poisoning, prompt injection, robustness evaluation
+
+**AI blue teaming** : ML-driven detection, SIEM, IDS (Suricata, Zeek), MITRE ATT&CK mapping
+
+**Critical infrastructure** : OT/ICS protocols (Modbus, CAN, PROFINET), SCADA, fieldbus security
+
+**Vulnerability research** : AI-agent infrastructure, exploitation, responsible disclosure
+
+**Certs** : eJPTv2 • ISC2 CC (+ CC exam development volunteer) • NVIDIA Exploring Adversarial Machine Learning
+
+## Contact
+
+Research collaboration, responsible disclosure, or an interesting target model: [jaafer.rahmani@owasp.org](mailto:jaafer.rahmani@owasp.org)
