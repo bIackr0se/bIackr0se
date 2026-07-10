@@ -4,7 +4,7 @@
 
 [blog](https://biackr0se.github.io/blog/) • [linkedin](https://www.linkedin.com/in/jaafer-rahmani/) • [email](mailto:jaafer.rahmani@owasp.org)
 
-**AI red teaming • AI blue teaming • security engineering**
+**AI red teaming • security engineering**
 
 [![papers](https://img.shields.io/badge/peer--reviewed_papers-10-ff2a4d?style=flat-square&labelColor=060407)](https://biackr0se.github.io/blog/#research)
 [![cve](https://img.shields.io/badge/CVE--2026--58196-ToolHive_SSRF-ff2a4d?style=flat-square&labelColor=060407)](https://biackr0se.github.io/blog/posts/ssrf-out-of-the-sandbox/)
@@ -34,7 +34,7 @@ Security engineer and PhD researcher in adversarial machine learning. I break mo
 
 **AI red teaming** : evasion, model extraction, data poisoning, prompt injection, robustness evaluation
 
-**AI blue teaming** : ML-driven detection, SIEM, IDS (Suricata, Zeek), MITRE ATT&CK mapping
+**Security engineering** : ML-driven detection, SIEM, IDS (Suricata, Zeek), MITRE ATT&CK mapping
 
 **Critical infrastructure** : OT/ICS protocols (Modbus, CAN, PROFINET), SCADA, fieldbus security
 
