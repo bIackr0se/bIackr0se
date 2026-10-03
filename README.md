@@ -19,7 +19,7 @@ Security engineer and PhD researcher in adversarial machine learning. I break mo
 ## Current work
 
 - [**AutoMCP**](https://github.com/bIackr0se/AutoMCP) - elastic purple-team MCP server: extracts security alerts, analyzes, responds, runs counter-reconnaissance
-- [**Agentarium**](https://github.com/bIackr0se/agentarium) - localhost-only, read-only map of agent work built on a provider-neutral `WorldSnapshot` contract, with synthetic Demo data and an optional Codex adapter tested against local SQLite state
+- [**Agentarium**](https://github.com/bIackr0se/agentarium) - a local, read-only map of agent work, with project islands, mission boards, and evidence replay
 - [**Watching an SSRF walk out of the sandbox**](https://biackr0se.github.io/blog/posts/ssrf-out-of-the-sandbox/) - full writeup of CVE-2026-58196, host-side SSRF in an MCP runtime
 - **Doctoral research** - evaluating and hardening ML-based intrusion detection against adaptive evasion; security of agentic LLM SOC analysts in OT networks
 - **Vulnerability research** on AI-agent infrastructure: MCP servers, agent runtimes, coding assistants, disclosed responsibly
