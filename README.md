@@ -2,12 +2,12 @@
 
 # Hey! I'm Jaafer
 
-[blog](https://biackr0se.github.io/blog/) • [linkedin](https://www.linkedin.com/in/jaafer-rahmani/) • [email](mailto:jaafer.rahmani@owasp.org)
+[blog](https://biackr0se.github.io/) • [linkedin](https://www.linkedin.com/in/jaafer-rahmani/) • [email](mailto:jaafer.rahmani@owasp.org)
 
 **AI red teaming • security engineering**
 
-[![papers](https://img.shields.io/badge/peer--reviewed_papers-10-ff2a4d?style=flat-square&labelColor=060407)](https://biackr0se.github.io/blog/#research)
-[![cve](https://img.shields.io/badge/CVE--2026--58196-ToolHive_SSRF-ff2a4d?style=flat-square&labelColor=060407)](https://biackr0se.github.io/blog/posts/ssrf-out-of-the-sandbox/)
+[![papers](https://img.shields.io/badge/peer--reviewed_papers-10-ff2a4d?style=flat-square&labelColor=060407)](https://biackr0se.github.io/#research)
+[![cve](https://img.shields.io/badge/CVE--2026--58196-ToolHive_SSRF-ff2a4d?style=flat-square&labelColor=060407)](https://biackr0se.github.io/posts/ssrf-out-of-the-sandbox/)
 [![owasp](https://img.shields.io/badge/OWASP-member-ff2a4d?style=flat-square&labelColor=060407)](https://owasp.org)
 
 </div>
@@ -18,18 +18,18 @@ Security engineer and PhD researcher in adversarial machine learning. I break mo
 
 ## Current work
 
-- [**AutoMCP**](https://github.com/bIackr0se/AutoMCP) - elastic purple-team MCP server: extracts security alerts, analyzes, responds, runs counter-reconnaissance
+- [**AutoMCP**](https://github.com/bIackr0se/AutoMCP) - CoAnalyst: a LangGraph research analyst for OT/IT alert triage with human review
 - [**Agentarium**](https://github.com/bIackr0se/agentarium) - a local, read-only map of agent work, with project islands, mission boards, and evidence replay
-- [**Watching an SSRF walk out of the sandbox**](https://biackr0se.github.io/blog/posts/ssrf-out-of-the-sandbox/) - full writeup of CVE-2026-58196, host-side SSRF in an MCP runtime
+- [**Watching an SSRF walk out of the sandbox**](https://biackr0se.github.io/posts/ssrf-out-of-the-sandbox/) - full writeup of CVE-2026-58196, host-side SSRF in an MCP runtime
 - **Doctoral research** - evaluating and hardening ML-based intrusion detection against adaptive evasion; security of agentic LLM SOC analysts in OT networks
 - **Vulnerability research** on AI-agent infrastructure: MCP servers, agent runtimes, coding assistants, disclosed responsibly
-- [**Field notes**](https://biackr0se.github.io/blog/posts/) - writeups land here as disclosures go public
+- [**Field notes**](https://biackr0se.github.io/posts/) - writeups land here as disclosures go public
 
 ## Arsenal
 
 <div align="center">
 
-[![skills](https://skillicons.dev/icons?i=py,pytorch,sklearn,docker,linux,bash,git,latex&theme=dark)](https://biackr0se.github.io/blog/about/)
+[![skills](https://skillicons.dev/icons?i=py,pytorch,sklearn,docker,linux,bash,git,latex&theme=dark)](https://biackr0se.github.io/about/)
 
 </div>
 
