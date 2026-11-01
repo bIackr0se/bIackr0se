@@ -7,8 +7,8 @@ PhD researcher in adversarial machine learning, focused on the AI that defends i
 [Website](https://biackr0se.github.io/) · [LinkedIn](https://www.linkedin.com/in/jaafer-rahmani/) · [ORCID](https://orcid.org/0009-0008-0975-2301) · [Email](mailto:jaafer.rahmani@owasp.org)
 
 - Found and reported **CVE-2026-91141** (COVESA vsomeip) and **CVE-2026-58196** (Stacklok ToolHive)
-- **12 peer-reviewed papers**: 8 published, 4 to appear
-- **28 merged upstream PRs**, 12 of them in Microsoft PyRIT
+- **12 peer-reviewed papers**: 10 published, 2 to appear
+- **39 merged upstream PRs**, 15 of them in Microsoft PyRIT
 
 ## Disclosed and fixed
 
@@ -19,22 +19,23 @@ I found both vulnerabilities and reported them through coordinated disclosure. B
 
 ## Merged upstream
 
-- [**Microsoft PyRIT: 12.**](https://github.com/microsoft/PyRIT/pulls?q=is%3Apr+is%3Amerged+author%3AbIackr0se) Stop encoded-prompt echoes from counting as successful decodes; fix Unicode payload decoding and package hallucination checks.
-- [**cantools: 10.**](https://github.com/cantools/cantools/pulls?q=is%3Apr+is%3Amerged+author%3AbIackr0se) Fix candump log parsing, SYM and KCD writers, and decoded-log plotting.
+- [**Microsoft PyRIT: 15.**](https://github.com/microsoft/PyRIT/pulls?q=is%3Apr+is%3Amerged+author%3AbIackr0se) Stop encoded-prompt echoes from counting as successful decodes; fix Unicode payload decoding and package hallucination checks; detect Slack tokens in the credential-leak scorer.
+- [**cantools: 11.**](https://github.com/cantools/cantools/pulls?q=is%3Apr+is%3Amerged+author%3AbIackr0se) Fix candump log parsing, SYM and KCD writers, and decoded-log plotting.
 - [**Scapy: 2.**](https://github.com/secdev/scapy/pulls?q=is%3Apr+is%3Amerged+author%3AbIackr0se) Dissect the PROFINET `PRAL_AlarmItem`; correct the Modbus Report Slave ID byte count.
 - [**opcua-asyncio: 1.**](https://github.com/FreeOpcUa/opcua-asyncio/pulls?q=is%3Apr+is%3Amerged+author%3AbIackr0se) Stop swapping send and receive buffer sizes in the Hello/Acknowledge exchange.
+- **Also: 10.** jevgrep (3), go-git (2), fsspec (2), Presidio, grype and ai-newtab.
 
-[All 28 merged PRs](https://github.com/search?q=author%3AbIackr0se+is%3Apr+is%3Amerged+-user%3AbIackr0se&type=pullrequests)
+[All merged PRs](https://github.com/search?q=author%3AbIackr0se+is%3Apr+is%3Amerged+-user%3AbIackr0se&type=pullrequests)
 
 ## Research
 
 To appear in 2026:
 - When the Analyst Scans for the Attacker: Subverting Agentic LLM Security Operations in OT Networks. *SHIELD-AI @ ECML PKDD 2026, Springer CCIS*
-- KEYSER: Stateful Adversarial Campaign Evaluation of ML-Based Intrusion Detection in Industrial Automation. *IEEE ETFA 2026*
-- Adversarial Robustness Evaluation of a Multi-Layer OT Intrusion Detection System via Automated C2 Red Teaming. *IEEE ETFA 2026*
 - Agentic Incident Response in IT/OT Critical Infrastructure: Reinforcement Learning and Cross-Domain Generalization. *CCSS 2026*
 
 Published:
+- [KEYSER: Stateful Adversarial Campaign Evaluation of ML-Based Intrusion Detection in Industrial Automation](https://doi.org/10.1109/ETFA68377.2026.11724909). *IEEE ETFA 2026*
+- [Adversarial Robustness Evaluation of a Multi-Layer OT Intrusion Detection System via Automated C2 Red Teaming](https://doi.org/10.1109/ETFA68377.2026.11725122). *IEEE ETFA 2026*
 - [Characterizing Domain Shift in PROFINET Intrusion Detection: A Multi-Site Ground-Truth Evaluation](https://doi.org/10.1109/WFCS67029.2026.11511604). *IEEE WFCS 2026*
 - [CoAnalyst: An Agentic LLM-Based Cybersecurity Analyst for Industrial Control Systems](https://doi.org/10.1109/WFCS67029.2026.11511585). *IEEE WFCS 2026*
 - [An Integrated Testbed for MITRE-Mapped Attack Emulation in Industrial Control Networks](https://doi.org/10.3390/s26113514). *MDPI Sensors 2026*
