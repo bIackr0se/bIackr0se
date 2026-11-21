@@ -25,7 +25,7 @@ Of my 12 peer-reviewed papers, 10 are published and 2 are to appear.
 
 ### To appear
 
-- [When the Analyst Scans for the Attacker: Subverting Agentic LLM Security Operations in OT Networks](https://biackr0se.github.io/papers/rahmani-shield-ai-2026-accepted.pdf). *SHIELD-AI @ ECML PKDD 2026, Springer CCIS.* On a deployed agentic analyst in an industrial network, exposing one extra alert field let a crafted alert deliver a real OT address to the agent's scan step in 52 of 100 trials, and an end-to-end run then scanned the live PLC. With the matched fix, no scan executed in 100 trials.
+- [When the Analyst Scans for the Attacker: Subverting Agentic LLM Security Operations in OT Networks](https://biackr0se.github.io/papers/rahmani-shield-ai-2026-accepted.pdf). *SHIELD-AI @ ECML PKDD 2026, Springer CCIS.* On a deployed agentic analyst in an industrial network, exposing the alert's source address to the agent made it pass a real OT address to its scan step in 52 of 100 analyst questions, and an end-to-end run then scanned the live PLC. With the matched fix, no scan executed in 100 trials.
 - Agentic Incident Response in IT/OT Critical Infrastructure: Reinforcement Learning and Cross-Domain Generalization. *CCSS 2026.*
 
 ### Published
