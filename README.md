@@ -1,6 +1,6 @@
 <a href="https://biackr0se.github.io/"><img src="assets/header.svg" alt="Jaafer Rahmani. AI red teaming and security engineering." width="100%"></a>
 
-I found and reported [3 vulnerabilities](#disclosed-and-fixed), including a flaw in Spring AI that let one user read and delete other users' documents. My [71 merged upstream pull requests](https://github.com/search?q=author%3AbIackr0se+is%3Apr+is%3Amerged+-user%3AbIackr0se&type=pullrequests) span 14 projects, including PyRIT, cantools and Scapy. I have written [12 peer-reviewed papers](#research) with my coauthors.
+I found and reported [3 vulnerabilities](#disclosed-and-fixed), including a flaw in Spring AI that let one user read and delete other users' documents. My [70 merged upstream pull requests](https://github.com/search?q=author%3AbIackr0se+is%3Apr+is%3Amerged+-user%3AbIackr0se&type=pullrequests) span 13 projects, including PyRIT, cantools and Scapy. I have written [12 peer-reviewed papers](#research) with my coauthors.
 
 [Website](https://biackr0se.github.io/) · [LinkedIn](https://www.linkedin.com/in/jaafer-rahmani/) · [ORCID](https://orcid.org/0009-0008-0975-2301) · [Email](mailto:jaafer.rahmani@owasp.org)
 
@@ -25,7 +25,7 @@ Of my 12 peer-reviewed papers, 10 are published and 2 are to appear.
 
 ### To appear
 
-- [When the Analyst Scans for the Attacker: Subverting Agentic LLM Security Operations in OT Networks](https://biackr0se.github.io/papers/rahmani-shield-ai-2026-accepted.pdf). *SHIELD-AI @ ECML PKDD 2026, Springer CCIS.* On a deployed agentic analyst in an industrial network, exposing one extra alert field let a crafted alert steer the agent into scanning the live PLC it protected. The hostile scan occurred in 52 of 100 runs before the fix and in 0 runs on the patched pipeline.
+- [When the Analyst Scans for the Attacker: Subverting Agentic LLM Security Operations in OT Networks](https://biackr0se.github.io/papers/rahmani-shield-ai-2026-accepted.pdf). *SHIELD-AI @ ECML PKDD 2026, Springer CCIS.* On a deployed agentic analyst in an industrial network, exposing one extra alert field let a crafted alert deliver a real OT address to the agent's scan step in 52 of 100 trials, and an end-to-end run then scanned the live PLC. With the matched fix, no scan executed in 100 trials.
 - Agentic Incident Response in IT/OT Critical Infrastructure: Reinforcement Learning and Cross-Domain Generalization. *CCSS 2026.*
 
 ### Published
